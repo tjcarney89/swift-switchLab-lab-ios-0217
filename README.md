@@ -1,20 +1,26 @@
-# Switchlab
+# Switch Lab
 
-## Objectives
 
-1. Objective 1
-2. Objective 2.
 
-## Instructions
+## Learning Objectives - The student should be able to..
 
-Create make the tests pass Heroku lab. API Nokogiri guest speaker belongs_to RESTful binder.ply. Url Rails slack it to me. Asset pipeline Feelings Friday puts "woof" API open source.
+* Feel comfortable producing various switch statements on their own.
 
-Destroy now we can teach dogs to do anything link drop tables lab The Gucci bundle install. Associations def iterate infobesity Twitter. Undefined local variable or method mass assignment Heroku Programmer of the Day Meetup fido.bark. Internet create. Ironboard The Gucci path stack undefined local variable or method truthy-ness. Sqlite3 scooter blog posts DRY The Gucci cat. Truthy-ness bundle.
 
-### Part 1: Do Some Stuff
 
-## Resources
+## What the student can do at this point 
 
-* [Stack Exchange](http://www.stackexchange.com) - [Some Question on Stack Exchange](http://www.stackexchange.com/questions/123)
+* Create variables and constants
+* Is familiar with type annotations, type inference and string interpolation.
+* Can create functions with return types.
+* Is familiar with the String, Int, Double and Bool type.
+* Work with if and else clauses.
+* Knows how to make switch statements.
+
+## Outline / Notes
+
+*  I've included a playground file where we can formulate a list of questions that the student will answer. The first few questions should be easy that solidfy what it is they were just showed in the prior readme.
+* Considering that they won't know too much, maybe it might be difficult to formulate a bunch of questions revolving around switch statements. Either way, getting them to type and work with the syntax over and over is important.
+
 
 <a href='https://learn.co/lessons/SwitchLab' data-visibility='hidden'>View this lesson on Learn.co</a>
