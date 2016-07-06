@@ -2,25 +2,25 @@
 
 
 
-## Learning Objectives - The student should be able to..
+## Learning Objectives 
 
-* Feel comfortable producing various switch statements on their own.
+* Become comfortable with using Switch statements
 
 
 
-## What the student can do at this point 
 
-* Create variables and constants
-* Is familiar with type annotations, type inference and string interpolation.
-* Can create functions with return types.
-* Is familiar with the String, Int, Double and Bool type.
-* Work with if and else clauses.
-* Knows how to make switch statements.
 
-## Outline / Notes
+## Instructions
 
-*  I've included a playground file where we can formulate a list of questions that the student will answer. The first few questions should be easy that solidfy what it is they were just showed in the prior readme.
-* Considering that they won't know too much, maybe it might be difficult to formulate a bunch of questions revolving around switch statements. Either way, getting them to type and work with the syntax over and over is important.
+* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
+* There are no tests associated with this playground file.
+* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
+* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
+
+![main](http://i.imgur.com/odAU8pd.png)
+* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
+
+![render](http://i.imgur.com/vCIhFbZ.png)
 
 
 <a href='https://learn.co/lessons/SwitchLab' data-visibility='hidden'>View this lesson on Learn.co</a>
