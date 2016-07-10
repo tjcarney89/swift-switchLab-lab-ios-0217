@@ -15,8 +15,9 @@
 
 ## Instructions
 
-* Complete the various questions being asked in the `MyPlayground.playground` file include in this repository. 
+* Complete the various questions being asked in the `MyPlayground.playground` file included in this repository. 
 * There are **no** tests associated with this lab. If learn is expecting any green lights to be lit up as a result of passing tests on this lab, please raise an issue letting us know that as it shouldn't be.
+* When you have completed writing your code below each question, submit a pull request.
 
 
 
