@@ -1,26 +1,23 @@
 # Switch Lab
 
 
+![Drawing](http://i.imgur.com/G7cbY5w.jpg?1)
+
+> Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover. -[H. Jackson Brown Jr.](https://en.wikipedia.org/wiki/H._Jackson_Brown,_Jr.)
+
+
 
 ## Learning Objectives 
 
-* Become comfortable with using Switch statements
-
-
+* Solving problems using `switch` statements
 
 
 
 ## Instructions
 
-* Open up the playground file included with this repo and answer the listed questions (which you will find in the playground file) in order. 
-* There are no tests associated with this playground file.
-* The following two screenshots are included to assist you in case the file doesn't open right to the main.swift file (which it should by default).
-* Make sure you're working in the main.swift file (which you can view by pressing command + 0):
+* Complete the various questions being asked in the `MyPlayground.playground` file include in this repository. 
+* There are **no** tests associated with this lab. If learn is expecting any green lights to be lit up as a result of passing tests on this lab, please raise an issue letting us know that as it shouldn't be.
 
-![main](http://i.imgur.com/odAU8pd.png)
-* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right:
-
-![render](http://i.imgur.com/vCIhFbZ.png)
 
 
 <a href='https://learn.co/lessons/SwitchLab' data-visibility='hidden'>View this lesson on Learn.co</a>
