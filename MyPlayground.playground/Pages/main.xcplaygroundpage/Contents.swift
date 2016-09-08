@@ -95,4 +95,4 @@ let b = 32
 
 
 
-//: Checkout the solution branch for answers to the above questions.
+//:
