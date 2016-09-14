@@ -64,11 +64,10 @@ let b = 32
 
 
 /*: Question 5
-### **(5)** Write a function named "isForceWith" that takes a `String` argument which represents a persons name and returns a `Bool`. If the persons name is equal to the name of someone with the force, return `true`, else return `false`. People with the force are Luke, Leia, Anakin, Obi Wan, Yoda & Vader.
+### **(5)** Write a function named `isForce` that takes a `String` argument which represents a persons name and returns a `Bool`. If the persons name is equal to the name of someone with the force, return `true`, else return `false`. People with the force are Luke, Leia, Anakin, Obi Wan, Yoda & Vader.
  ```swift
- isForceWith("Luke") // true
- 
- isForceWith("Mary") // false
+ isForce(with:"Luke") // true
+ isForce(with:"Mary") // false
  ```
 */
 
